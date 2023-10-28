@@ -1,0 +1,16 @@
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache

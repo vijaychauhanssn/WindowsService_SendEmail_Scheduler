@@ -1,0 +1,977 @@
+﻿Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of WindowsServiceCS.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not respond to the start or control request in a timely fashion.
+Rolling back assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of WindowsServiceCS.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not respond to the start or control request in a timely fashion.
+Rolling back assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of WindowsServiceCS.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not respond to the start or control request in a timely fashion.
+Rolling back assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of WindowsServiceCS.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+Rolling back assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of WindowsServiceCS.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+Rolling back assembly 'C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Warning: The source SimpleService is not registered on the local machine.
+Service SimpleService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   username = Mudassar-PC\mudassar
+   unattended = 
+   logtoconsole = 
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   password = ********
+Uninstalling assembly 'D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
